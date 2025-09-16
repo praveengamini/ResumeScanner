@@ -1,0 +1,27 @@
+{
+  "skills": [
+    "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "Go", "Rust", "PHP", "Ruby", "Swift", "Kotlin",
+    "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django", "Flask", "Spring Boot", "Laravel", "Rails",
+    "HTML", "CSS", "SASS", "SCSS", "Bootstrap", "Tailwind CSS", "jQuery", "Redux", "GraphQL", "REST API",
+    "SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "SQLite", "Oracle", "SQL Server",
+    "AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Jenkins", "Git", "GitHub", "GitLab", "Bitbucket",
+    "Linux", "Unix", "Windows", "macOS", "Shell Scripting", "Bash", "PowerShell", "Command Line",
+    "Machine Learning", "Deep Learning", "Artificial Intelligence", "TensorFlow", "PyTorch", "Scikit-learn",
+    "Data Science", "Data Analysis", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter", "R", "SPSS",
+    "Apache Spark", "Hadoop", "Kafka", "Airflow", "ETL", "Data Warehousing", "Power BI", "Tableau", "Looker",
+    "DevOps", "CI/CD", "Terraform", "Ansible", "Chef", "Puppet", "Nagios", "Prometheus", "Grafana",
+    "Microservices", "SOA", "API Design", "System Design", "Architecture", "Design Patterns", "Clean Code",
+    "Agile", "Scrum", "Kanban", "Jira", "Confluence", "Slack", "Microsoft Teams", "Project Management",
+    "Testing", "Unit Testing", "Integration Testing", "Selenium", "Jest", "PyTest", "JUnit", "Test Automation",
+    "Cybersecurity", "Penetration Testing", "Network Security", "Encryption", "OAuth", "JWT", "SSL/TLS",
+    "Blockchain", "Cryptocurrency", "Smart Contracts", "Solidity", "Web3", "DeFi", "NFT",
+    "Mobile Development", "iOS", "Android", "React Native", "Flutter", "Xamarin", "Ionic",
+    "Game Development", "Unity", "Unreal Engine", "C++ Game Programming", "3D Graphics", "OpenGL", "DirectX",
+    "UI/UX Design", "Figma", "Adobe XD", "Sketch", "InVision", "Wireframing", "Prototyping", "User Research",
+    "Digital Marketing", "SEO", "SEM", "Google Analytics", "Facebook Ads", "Content Marketing", "Email Marketing",
+    "E-commerce", "Shopify", "WooCommerce", "Magento", "Payment Gateways", "Stripe", "PayPal",
+    "CRM", "Salesforce", "HubSpot", "Zoho", "ERP", "SAP", "Oracle ERP", "Microsoft Dynamics",
+    "Communication", "Leadership", "Team Management", "Problem Solving", "Critical Thinking", "Creativity",
+    "Time Management", "Multitasking", "Adaptability", "Collaboration", "Presentation Skills", "Public Speaking"
+  ]
+}

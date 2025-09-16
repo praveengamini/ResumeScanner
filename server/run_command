@@ -1,0 +1,5 @@
+# Activate your virtual environment first
+source venv/Scripts/activate
+
+# Now uvicorn will be available
+uvicorn app.main:app --reload
